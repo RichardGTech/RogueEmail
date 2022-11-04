@@ -1,0 +1,212 @@
+<mjml>
+<mj-head>
+<mj-style>
+* {
+    box-sizing: border-box;
+}
+.footer-links {
+    color: #7f7f7f;
+}
+</mj-style>
+
+<mj-style inline="inline">
+.bg-white {
+    background-color: #fff;
+}
+.bg-black {
+    background-color: #000000;
+}
+.product-title {
+    text-align: center;
+}
+.icons {
+    max-width: 200px;
+    padding: 20px 0 0;
+}
+</mj-style>
+</mj-head>
+
+<mj-body background-color="#f2f2f2">
+
+<mj-raw>
+<!-- Header -->
+</mj-raw>
+<mj-include path="./components/header.mjml" />
+
+
+<mj-raw>
+<!-- Rogue Pukie Shirt -->
+</mj-raw>
+
+<mj-section padding="0" css-class="bg-white">
+<mj-column>
+<mj-image alt="Pukie Shirt" href="#" padding="0" 
+src="http://127.0.0.1:5500/assets/Pukie.jpg" />
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class="bg-white">
+<mj-column>
+<mj-text font-size="18px" font-weight="bold" align="center" 
+css-class="product-title">Rogue Pukie Shirt</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class="bg-white">
+<mj-column>
+<mj-text font-size="13px" font-weight="normal" align="center" 
+line-height="20px"> 
+Introduced at the 2022 CrossFit Games, the Rogue “Pukie” Shirt pays homage to the unofficial mascot of CrossFit, 
+Pukie the Clown.</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0 0 30px" css-class="bg-white">
+<mj-column>
+<mj-button background-color="#EA0000" font-weight="bold" 
+border-radius="0" font-size="16px" href="#" target="_blank">Shop Now</mj-button>
+</mj-column>
+</mj-section>
+
+
+<mj-raw>
+<!-- Dave Castro Shirt -->
+</mj-raw>
+
+<mj-section padding="0" css-class="bg-white">
+<mj-column>
+<mj-image alt="Dave Castro" href="#" padding="0" 
+src="http://127.0.0.1:5500/assets/TDC.jpg" />
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class="bg-white">
+<mj-column>
+<mj-text font-size="18px" font-weight="bold" align="center" 
+css-class="product-title">Dave Castro TDC T-Shirt - CrossFit Games Edition</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class="bg-white">
+<mj-column>
+<mj-text font-size="13px" font-weight="normal" align="center" 
+line-height="20px"> 
+The “TDC” Shirt is a men’s athletic tee featuring Dave Castro’s official branding 
+on the chest. This limited CrossFit Games edition also includes the Roman 
+numeral XVI to mark the 16th year of the Games. </mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0 0 30px" css-class="bg-white">
+<mj-column>
+<mj-button background-color="#EA0000" font-weight="bold" 
+border-radius="0" font-size="16px" href="#" target="_blank">Shop Now</mj-button>
+</mj-column>
+</mj-section>
+
+<mj-raw>
+<!-- Rogue Insidous Sling -->
+</mj-raw>
+
+<mj-section padding="15px 0 0" css-class="bg-white">
+<mj-column>
+<mj-image alt="Rogue Insidious Sling" href="#" padding="0" 
+src="http://127.0.0.1:5500/assets/InsidiousSling.jpg" />
+</mj-column>
+</mj-section>
+
+<mj-section padding="15px 0 0" css-class="bg-white">
+<mj-column>
+<mj-text font-size="18px" font-weight="bold" align="center" 
+css-class="product-title">Rogue Insidious Sling</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class="bg-white">
+<mj-column>
+<mj-text font-size="13px" font-weight="normal" align="center" 
+line-height="20px"> 
+This exclusive Rogue-branded version of DEFY’s Insidious Sling carry bag is hand-made in Chicago, IL, 
+utilizing a unique multi-layered composite fabric called X-Pac&trade;.  </mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0 0 30px" css-class="bg-white">
+<mj-column>
+<mj-button background-color="#EA0000" font-weight="bold" 
+border-radius="0" font-size="16px" href="#" target="_blank">Shop Now</mj-button>
+</mj-column>
+</mj-section>
+
+
+<mj-raw>
+<!-- Tickets -->
+</mj-raw>
+
+<mj-section padding="0">
+<mj-column>
+<mj-image alt="Ticket Sales" href="#" padding="0" 
+href="#" 
+src="http://127.0.0.1:5500/assets/TicketSale.png" />
+</mj-column>
+</mj-section>
+
+<mj-raw>
+<!-- Payments -->
+</mj-raw>
+
+<mj-section padding="0">
+<mj-column>
+<mj-image alt="Buy Now, Pay Over Time" href="#" padding="0" 
+href="#" 
+src="http://127.0.0.1:5500/assets/RogueFinancing.jpg" />
+</mj-column>
+</mj-section>
+
+<mj-raw>
+<!-- Divider-->
+</mj-raw>
+
+<mj-include path="./components/divider.mjml" />
+
+
+<mj-raw>
+<!-- Shipping, Zeus, App -->
+</mj-raw>
+
+
+<mj-section padding="0" css-class="bg-black">
+<mj-group>
+<mj-column>
+<mj-image alt="Buy 3, ship free" align="left" padding="0" 
+hfref="#" 
+src="http://127.0.0.1:5500/assets/ShipsFree.jpg" />
+</mj-column>
+
+<mj-column>
+<mj-image alt="ZEUS" align="left" padding="0" 
+hfref="#" 
+src="http://127.0.0.1:5500/assets/ZEUS.jpg" />
+</mj-column>
+
+<mj-column>
+<mj-image alt="Rogue App" align="left" padding="0" 
+hfref="#" 
+src="http://127.0.0.1:5500/assets/APP.jpg" />
+</mj-column>
+</mj-group>
+</mj-section>
+
+<mj-raw>
+<!-- Divider -->
+</mj-raw>
+
+<mj-include path="./components/divider.mjml" />
+
+<mj-raw>
+<!-- Footer -->
+</mj-raw>
+<mj-include path="./components/footer.mjml" />
+
+</mj-body>
+</mjml>

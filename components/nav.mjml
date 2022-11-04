@@ -1,0 +1,34 @@
+<mj-section padding="0">
+<mj-group>
+    <mj-column>
+    <mj-image alt="New Gear" align="left" padding="0" src="http://127.0.0.1:5500/assets/NewGear.jpg"  
+    href="http://www.roguefitness.com" />
+    </mj-column>
+
+        <mj-column>
+    <mj-image alt="Barbells" align="left" padding="0" src="http://127.0.0.1:5500/assets/Barbells.jpg"  
+    href="http://www.roguefitness.com" />
+    </mj-column>
+
+        <mj-column>
+    <mj-image alt="Plates" align="left" padding="0" src="http://127.0.0.1:5500/assets/Plates.jpg"  
+    href="http://www.roguefitness.com" />
+    </mj-column>
+
+        <mj-column>
+    <mj-image alt="Racks" align="left" padding="0" src="http://127.0.0.1:5500/assets/Racks.jpg"  
+    href="http://www.roguefitness.com" />
+    </mj-column>
+
+        <mj-column>
+    <mj-image alt="Shoes" align="left" padding="0" src="http://127.0.0.1:5500/assets/Shoes.jpg"  
+    href="http://www.roguefitness.com" />
+    </mj-column>
+
+        <mj-column>
+    <mj-image alt="Hot Deals" align="left" padding="0" src="http://127.0.0.1:5500/assets/HotDeals.jpg"  
+    href="http://www.roguefitness.com" />
+    </mj-column>
+</mj-group>
+
+</mj-section>

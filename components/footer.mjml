@@ -1,0 +1,82 @@
+<mj-section css-class="bg-black" padding="0">
+<mj-column>
+<mj-text color="#fffff" text-transform="uppercase" align="center" 
+font-size="17px" font-weight="bold">Connect</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-raw>
+<!-- Socials -->
+</mj-raw>
+
+<mj-section css-class="bg-black" padding="0">
+<mj-group css-class="icons">
+<mj-column padding="0">
+<mj-image alt="Instagram" width="30px" height="30px" 
+hfref="#" padding="0" padding="0" align="center"
+src="http://127.0.0.1:5500/assets/Instagram.png" />
+</mj-column>
+
+<mj-column padding="0">
+<mj-image alt="Facebook" width="30px" height="30px" 
+hfref="#" padding="0" align="center"
+src="http://127.0.0.1:5500/assets/Facebook.png" />
+</mj-column>
+
+<mj-column padding="0">
+<mj-image alt="Twitter" width="30px" height="30px" 
+hfref="#" padding="0" align="center"
+src="http://127.0.0.1:5500/assets/Twitter.png" />
+</mj-column>
+
+<mj-column padding="0">
+<mj-image alt="YT" width="30px" height="30px" 
+hfref="#" padding="0" align="center"
+src="http://127.0.0.1:5500/assets/YouTube.png" />
+</mj-column>
+
+<mj-column padding="0">
+<mj-image alt="TikTok" width="30px" height="30px" 
+hfref="#" padding="0" align="center"
+src="http://127.0.0.1:5500/assets/TikTok.png" />
+</mj-column>
+</mj-group>
+</mj-section>
+
+<mj-raw>
+<!-- Footer Text -->
+</mj-raw>
+
+<mj-section padding="0" css-class="bg-black">
+<mj-column>
+<mj-text color="#7f7f7f" align="center" 
+font-size="10px">Copyright &copy; 2022 Rogue Fitness - All Rights Reserved 
+<br>This email was sent to - </mj-text>
+
+<mj-text color="#7f7f7f" align="center" font-size="10px"> 
+545 E 5th Ave Columbus, OH 43201
+</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-raw>
+<!-- Footer Links -->
+</mj-raw>
+
+<mj-section padding="0" css-class="bg-black">
+<mj-column>
+<mj-text align="center" color="#7f7f7f" font-size="10px">
+<a href="#" class="footer-links">Unsubscribe</a>
+|
+<a href="#" class="footer-links">View Online</a>
+</mj-text>
+<mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class="bg-black">
+<mj-column>
+<mj-text color="#7f7f7f" align="center" font-size="10px">
+Unsubscribe from Rapid Fire Emails
+</mj-text>
+</mj-column>
+</mj-section>

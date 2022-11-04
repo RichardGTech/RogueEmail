@@ -1,0 +1,22 @@
+<mj-section padding="0" css-class="bg-black">
+<mj-group>
+<mj-column>
+<mj-image alt="Buy 3, Ships Free" align="left" padding="0" 
+src="http://127.0.0.1:5500/assets/ShipsFree.jpg" 
+href="#" />
+</mj-column>
+
+<mj-column>
+<mj-image alt="Zeus Custom Shop" align="left" padding="0" 
+src="http://127.0.0.1:5500/assets/ZEUS.jpg" 
+href="#" />
+</mj-column>
+
+<mj-column>
+<mj-image alt="Download the App" align="left" padding="0" 
+src="http://127.0.0.1:5500/assets/App.jpg" 
+href="#" />
+</mj-column>
+
+</mj-group>
+</mj-section>

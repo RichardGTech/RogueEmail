@@ -1,0 +1,97 @@
+<mj-raw>
+<!-- Pukie Shirt -->
+</mj-raw>
+
+<mj-section padding="0"> 
+<mj-column>
+<mj-image alt="Rogue Puke T-Shirt" href="#" padding="0" src="http://127.0.0.1:5500/assets/Pukie.jpg" />
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class=" bg-white">
+<mj-column>
+<mj-text class="product-title" font-size="18px" font-weight="bold" align="center">Rogue Pukie T-Shirt</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class=" bg-white">
+<mj-column>
+<mj-text class="product-title" font-size="14px" font-weight="normal" align="center" 
+line-height="20px">Introducted at the 2022 Crossfit Games, the Rogue 
+"Pukie" Shirt pays homage to the unofficial mascot of CrossFit, Pukie the Clown.</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section css-class="bg-white" padding="0 0 0 30px">
+<mj-column>
+<mj-button background-color="#EA0000" color="#fff" 
+font-weight="bold" border-radius="0" font-size="16px" 
+href="#" target="_blank">Shop Now</mj-button>
+</mj-column>
+</mj-section>
+
+
+<mj-raw>
+<!-- Dave Castro -->
+</mj-raw>
+
+<mj-section padding="15px 0 0" css-class="bg-white"> 
+<mj-column>
+<mj-image alt="Dave Castro TDC T-Shirt" href="#" padding="0" src="http://127.0.0.1:5500/assets/TDCGames.jpg" />
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class=" bg-white">
+<mj-column>
+<mj-text class="product-title" font-size="18px" font-weight="bold" align="center">Dave Castro TDC T-Shirt - Crossfit Games Edition</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class=" bg-white">
+<mj-column>
+<mj-text class="product-title" font-size="14px" font-weight="normal" align="center" 
+line-height="20px">The “TDC” Shirt is a men’s athletic tee featuring Dave Castro’s 
+official branding on the chest. This limited CrossFit Games edition also 
+includes the Roman numeral XVI to mark the 16th year of the Games.</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section css-class="bg-white" padding="0 0 0 30px">
+<mj-column>
+<mj-button background-color="#EA0000" color="#fff" 
+font-weight="bold" border-radius="0" font-size="16px" 
+href="#" target="_blank">Shop Now</mj-button>
+</mj-column>
+</mj-section>
+
+<mj-raw>
+<!-- Insidious Sling -->
+</mj-raw>
+
+<mj-section padding="0" css-class="bg-white"> 
+<mj-column>
+<mj-image alt="Insidious Sling Bag" href="#" padding="0" src="http://127.0.0.1:5500/assets/InsidiousSling.jpg" />
+</mj-column>
+</mj-section>
+
+<mj-section padding="15px 0 0" css-class=" bg-white">
+<mj-column>
+<mj-text class="product-title" font-size="18px" font-weight="bold" align="center">Rogue Insidious Sling</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0" css-class=" bg-white">
+<mj-column>
+<mj-text class="product-title" font-size="14px" font-weight="normal" align="center" 
+line-height="20px">This exclusive Rogue-branded version of DEFY’s Insidious Sling carry bag is hand-made in Chicago, IL, 
+utilizing a unique multi-layered composite fabric called X-Pac&trade;. </mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section css-class="bg-white" padding="0 0 0 30px">
+<mj-column>
+<mj-button background-color="#EA0000" color="#fff" 
+font-weight="bold" border-radius="0" font-size="16px" 
+href="#" target="_blank">Shop Now</mj-button>
+</mj-column>
+</mj-section>
