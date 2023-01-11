@@ -41,7 +41,7 @@
 <mj-section padding="0" css-class="bg-white">
 <mj-column>
 <mj-image alt="Pukie Shirt" href="#" padding="0" 
-src="http://127.0.0.1:5500/assets/Pukie.jpg" />
+src="https://i.ibb.co/N9RnM4R/Pukie.jpg" />
 </mj-column>
 </mj-section>
 
@@ -76,7 +76,7 @@ border-radius="0" font-size="16px" href="#" target="_blank">Shop Now</mj-button>
 <mj-section padding="0" css-class="bg-white">
 <mj-column>
 <mj-image alt="Dave Castro" href="#" padding="0" 
-src="http://127.0.0.1:5500/assets/TDC.jpg" />
+src="https://i.ibb.co/FH1T13V/TDC.jpg" />
 </mj-column>
 </mj-section>
 
@@ -111,7 +111,7 @@ border-radius="0" font-size="16px" href="#" target="_blank">Shop Now</mj-button>
 <mj-section padding="15px 0 0" css-class="bg-white">
 <mj-column>
 <mj-image alt="Rogue Insidious Sling" href="#" padding="0" 
-src="http://127.0.0.1:5500/assets/InsidiousSling.jpg" />
+src="https://i.ibb.co/Nsjcrkt/Insidious-Sling.jpg" />
 </mj-column>
 </mj-section>
 
@@ -147,7 +147,7 @@ border-radius="0" font-size="16px" href="#" target="_blank">Shop Now</mj-button>
 <mj-column>
 <mj-image alt="Ticket Sales" href="#" padding="0" 
 href="#" 
-src="http://127.0.0.1:5500/assets/TicketSale.png" />
+src="https://i.ibb.co/znHry6s/Ticket-Sale.png" />
 </mj-column>
 </mj-section>
 
@@ -159,7 +159,7 @@ src="http://127.0.0.1:5500/assets/TicketSale.png" />
 <mj-column>
 <mj-image alt="Buy Now, Pay Over Time" href="#" padding="0" 
 href="#" 
-src="http://127.0.0.1:5500/assets/RogueFinancing.jpg" />
+src="https://i.ibb.co/GnX0Wdh/Rogue-Financing.jpg" />
 </mj-column>
 </mj-section>
 
@@ -180,19 +180,19 @@ src="http://127.0.0.1:5500/assets/RogueFinancing.jpg" />
 <mj-column>
 <mj-image alt="Buy 3, ship free" align="left" padding="0" 
 hfref="#" 
-src="http://127.0.0.1:5500/assets/ShipsFree.jpg" />
+src="https://i.ibb.co/fYJ4xrW/Ships-Free.jpg" />
 </mj-column>
 
 <mj-column>
 <mj-image alt="ZEUS" align="left" padding="0" 
 hfref="#" 
-src="http://127.0.0.1:5500/assets/ZEUS.jpg" />
+src="https://i.ibb.co/k0gZG3d/ZEUS.jpg" />
 </mj-column>
 
 <mj-column>
 <mj-image alt="Rogue App" align="left" padding="0" 
 hfref="#" 
-src="http://127.0.0.1:5500/assets/APP.jpg" />
+src="https://i.ibb.co/MZ6m1PN/App.jpg" />
 </mj-column>
 </mj-group>
 </mj-section>

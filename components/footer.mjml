@@ -14,31 +14,31 @@ font-size="17px" font-weight="bold">Connect</mj-text>
 <mj-column padding="0">
 <mj-image alt="Instagram" width="30px" height="30px" 
 hfref="#" padding="0" padding="0" align="center"
-src="http://127.0.0.1:5500/assets/Instagram.png" />
+src="https://i.ibb.co/42tHRQY/Instagram.png" />
 </mj-column>
 
 <mj-column padding="0">
 <mj-image alt="Facebook" width="30px" height="30px" 
 hfref="#" padding="0" align="center"
-src="http://127.0.0.1:5500/assets/Facebook.png" />
+src="https://i.ibb.co/gwWDZfV/Facebook.png" />
 </mj-column>
 
 <mj-column padding="0">
 <mj-image alt="Twitter" width="30px" height="30px" 
 hfref="#" padding="0" align="center"
-src="http://127.0.0.1:5500/assets/Twitter.png" />
+src="https://i.ibb.co/xzVTzCk/Twitter.png" />
 </mj-column>
 
 <mj-column padding="0">
 <mj-image alt="YT" width="30px" height="30px" 
 hfref="#" padding="0" align="center"
-src="http://127.0.0.1:5500/assets/YouTube.png" />
+src="https://i.ibb.co/YfFFPJy/YouTube.png" />
 </mj-column>
 
 <mj-column padding="0">
 <mj-image alt="TikTok" width="30px" height="30px" 
 hfref="#" padding="0" align="center"
-src="http://127.0.0.1:5500/assets/TikTok.png" />
+src="https://i.ibb.co/txp7JYy/TikTok.png" />
 </mj-column>
 </mj-group>
 </mj-section>

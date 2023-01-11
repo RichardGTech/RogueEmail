@@ -1,7 +1,7 @@
 <mj-section padding="0">
 <mj-column>
 <mj-image padding="0" alt="US Flag" 
-src="http://127.0.0.1:5500/assets/USA.jpg" 
+src="https://i.ibb.co/tsqh5q6/USA.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 </mj-section>
@@ -13,7 +13,7 @@ href="https://www.roguefitness.com" />
 <mj-section padding="0">
 <mj-column>
 <mj-image padding="0" alt="Rogue Fitness" 
-src="http://127.0.0.1:5500/assets/RogueFitness.jpg" 
+src="https://i.ibb.co/SsJKPvT/Rogue-Fitness.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 </mj-section>
@@ -26,37 +26,37 @@ href="https://www.roguefitness.com" />
 <mj-group>
 <mj-column>
 <mj-image padding="0" align="left" alt="New Gear" 
-src="http://127.0.0.1:5500/assets/NewGear.jpg" 
+src="https://i.ibb.co/Y39W9TS/NewGear.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 
 <mj-column>
 <mj-image padding="0" align="left" alt="BarBells" 
-src="http://127.0.0.1:5500/assets/BarBells.jpg" 
+src="https://i.ibb.co/KbnyCzF/Barbells.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 
 <mj-column>
 <mj-image padding="0" align="left" alt="Plates" 
-src="http://127.0.0.1:5500/assets/Plates.jpg" 
+src="https://i.ibb.co/hLbMNy1/Plates.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 
 <mj-column>
 <mj-image padding="0" align="left" alt="Racks" 
-src="http://127.0.0.1:5500/assets/Racks.jpg" 
+src="https://i.ibb.co/m0dct1X/Racks.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 
 <mj-column>
 <mj-image padding="0" align="left" alt="Shoes" 
-src="http://127.0.0.1:5500/assets/Shoes.jpg" 
+src="https://i.ibb.co/N1LhkzP/Shoes.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 
 <mj-column>
 <mj-image padding="0" align="left" alt="Hot Deals" 
-src="http://127.0.0.1:5500/assets/HotDeals.jpg" 
+src="https://i.ibb.co/vk716y9/HotDeals.jpg" 
 href="https://www.roguefitness.com" />
 </mj-column>
 </mj-group>
